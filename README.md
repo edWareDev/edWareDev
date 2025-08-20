@@ -5,8 +5,7 @@
     src="https://cdn-icons-png.flaticon.com/512/16022/16022599.png" width="13" /> <b>Huancayo, Perú</b>
 <h3>He utilizado</h3>
 <p>
-  <img alt="JavaScript"
-    src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white">
+  <img alt="JavaScript"    src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat&logo=python">
   <img alt="Java" src="https://img.shields.io/badge/-Java-black?style=flat&logo=java">
@@ -54,15 +53,12 @@
     src="https://img.shields.io/badge/-Ubuntu_Server-black?style=flat&logo=ubuntu&logoColor=white" />
 
   <img alt="Mistral, Qwen, LLaMA" src="https://img.shields.io/badge/-Mistral,_Qwen,_LLaMA-black?style=flat" />
-  <img alt="Scraping" src="https://img.shields.io/badge/-scraping-black?style=flat" />
-  <img alt="Automatización" src="https://img.shields.io/badge/-automatización-black?style=flat" />
-  <img alt="Clasificación Inteligente" src="https://img.shields.io/badge/-clasificación_inteligente-black?style=flat" />
+  <img alt="Scraping" src="https://img.shields.io/badge/-Scraping-black?style=flat" />
+  <img alt="Automatización" src="https://img.shields.io/badge/-Automatización-black?style=flat" />
 
-<img alt="Zod"
-    src="https://img.shields.io/badge/-Zod-black?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAABYCAIAAACzrSdzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAadEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZE5vdEx1ZmxpeHRpb25zLnhtcAAAAAgAAOANAABAAAARc3NwTs9jayVHPE0yRkdGbEpsaXBHa3lRWE8uYi4vLmFhYS5BYS1CcmFnb25zLmppYW8AAAAACTwvMXgKAAAAGXRFWHRDb21tZW50AENyZWF0ZWQgd2l0aCBHSU1QV4EpeAEAIABDSS0tLAAAADhJREFUCNkCwj9/AAAAwAAA3H+OzAA=" />
-<img alt="Swagger" src="https://img.shields.io/badge/-Swagger-black?style=flat&logo=swagger&logoColor=white" />
-<img alt="OpenAPI 3.0"  src="https://img.shields.io/badge/-OpenAPI_3.0-black?style=flat&logo=openapiinitiative&logoColor=white" />
-
+  <img alt="Zod" src="https://img.shields.io/badge/-Zod-black?style=flat&logo=zod&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-black?style=flat&logo=swagger&logoColor=white" />
+  <img alt="OpenAPI 3.0" src="https://img.shields.io/badge/-OpenAPI_3.0-black?style=flat&logo=openapiinitiative&logoColor=white" />
 </p>
 
 <h3>Contáctame</h3>
